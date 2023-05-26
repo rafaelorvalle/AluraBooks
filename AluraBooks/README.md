@@ -7,5 +7,6 @@
 * JavaScript
 
 ## Screenshots
-<p>Consumo da API viacep para preenchimento automático de dados com js</p>
 ![Screenshot da tela do formulário do AluraBooks](https://imgur.com/bupnUfx.png)
+
+<p>Consumo da API viacep para preenchimento automático de dados com js</p>
